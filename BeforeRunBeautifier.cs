@@ -12,7 +12,6 @@ namespace Jupiter
         public static void Runner()
         {
             Console.Clear();
-            Console.Clear();
             Console.WriteLine(Variables._Banner + "\n\n");
             DelayerWriter("Welcome to Jupiter!");
             Console.WriteLine("\n\n");
