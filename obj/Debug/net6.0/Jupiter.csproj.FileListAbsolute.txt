@@ -1,0 +1,12 @@
+F:\Coding\Jupiter\bin\Debug\net6.0\Jupiter.deps.json
+F:\Coding\Jupiter\bin\Debug\net6.0\Jupiter.dll
+F:\Coding\Jupiter\bin\Debug\net6.0\Jupiter.pdb
+F:\Coding\Jupiter\obj\Debug\net6.0\Jupiter.csproj.AssemblyReference.cache
+F:\Coding\Jupiter\obj\Debug\net6.0\Jupiter.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding\Jupiter\obj\Debug\net6.0\Jupiter.AssemblyInfoInputs.cache
+F:\Coding\Jupiter\obj\Debug\net6.0\Jupiter.AssemblyInfo.cs
+F:\Coding\Jupiter\obj\Debug\net6.0\Jupiter.csproj.CoreCompileInputs.cache
+F:\Coding\Jupiter\obj\Debug\net6.0\Jupiter.dll
+F:\Coding\Jupiter\obj\Debug\net6.0\refint\Jupiter.dll
+F:\Coding\Jupiter\obj\Debug\net6.0\Jupiter.pdb
+F:\Coding\Jupiter\obj\Debug\net6.0\ref\Jupiter.dll
